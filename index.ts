@@ -8,16 +8,16 @@
 // Now, ready to do some TypeScript?!
 
 // ======== Exercise 1: Basic types ========
-import exercise0 from './src/Exercise_0_Test/exercise0';
-exercise0();
+// import exercise0 from './src/Exercise_0_Test/exercise0';
+// exercise0();
 
 // ======== Exercise 1: Basic types ========
 // import exercise1 from './src/Exercise_1_Basic_Types/exercise1';
 // exercise1();
 
 // ======== Exercise 2: Functions ==========
-// import exercise2 from './src/Exercise_2_Functions/exercise2';
-// exercise2();
+import exercise2 from './src/Exercise_2_Functions/exercise2';
+exercise2();
 
 // ======== Exercise 3: Classes ============
 // import exercise3 from './src/Exercise_3_Classes/exercise3';
