@@ -16,12 +16,12 @@
 // exercise1();
 
 // ======== Exercise 2: Functions ==========
-import exercise2 from './src/Exercise_2_Functions/exercise2';
-exercise2();
+// import exercise2 from './src/Exercise_2_Functions/exercise2';
+// exercise2();
 
 // ======== Exercise 3: Classes ============
-// import exercise3 from './src/Exercise_3_Classes/exercise3';
-// exercise3();
+import exercise3 from './src/Exercise_3_Classes/exercise3';
+exercise3();
 
 // ======== Exercise 4: Interfaces =========
 // import exercise4 from './src/Exercise_4_Interfaces/exercise4';
